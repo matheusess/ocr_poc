@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "475939873531",
+    "project_id": "ocrpoc-13cdf",
+    "storage_bucket": "ocrpoc-13cdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475939873531:android:9f98d8b636cddf32cac65e",
+        "android_client_info": {
+          "package_name": "com.example.ocr_poc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475939873531-omdpc3u5fdhav98pnlfjo20g9pv7hr42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY0se06tugr5Q_m9VYCkFfnTYeqack0EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475939873531-omdpc3u5fdhav98pnlfjo20g9pv7hr42.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "475939873531-6o3n0d3eln502he3tbd4mb0cskcgil5j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ocrPoc.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

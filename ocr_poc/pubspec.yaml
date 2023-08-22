@@ -1,0 +1,45 @@
+name: ocr_poc
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  basic_utils: ^5.4.2
+  cloud_firestore: ^4.8.5
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^4.7.3
+  firebase_core: ^2.15.1
+  flutter_localizations:
+    sdk: flutter
+  flutter_mobx: ^2.0.6+5
+  intl: ^0.18.1
+  google_fonts: ^5.1.0
+  google_sign_in: ^6.1.4
+  mobx: ^2.2.0
+  provider: ^6.0.5
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  build_runner: ^2.4.6 
+  mobx_codegen: ^2.3.0
+
+  # rules and activating additional ones.
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - images/
